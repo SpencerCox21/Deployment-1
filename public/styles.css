@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: aqua;
+    background-color: rgb(236, 97, 97);
 }
 
 h1 {
